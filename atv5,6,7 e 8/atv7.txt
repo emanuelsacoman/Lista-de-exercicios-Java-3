@@ -1,0 +1,5 @@
+Para que um membro só possa ser acessado por outros membros de sua classe, 
+que modificador de acesso deve ser usado?
+
+Resposta:
+private

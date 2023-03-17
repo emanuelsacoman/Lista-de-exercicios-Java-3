@@ -1,0 +1,6 @@
+Se todos os objetos de uma classe tiverem que compartilhar a mesma
+variável, como você deve declarar essa variável?
+
+Resposta:
+Para que todos os objetos de uma classe compartilhem a mesma variável, 
+é necessário declará-la como uma variável de classe ou variável estática.

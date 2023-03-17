@@ -1,0 +1,5 @@
+Um argumento int é passado para um método com o uso da chamada
+por _____
+
+Resposta:
+valor

@@ -1,0 +1,12 @@
+O fragmento descrito a seguir está correto? Justifique a sua resposta.
+public class X {
+    public int metodo1(int a, int b){
+    ...
+    }
+    public String metodo1(int a, int b) {
+    ...
+    }
+
+Resposta:
+Não, o fragmento do código está incorreto, pois há dois métodos com o mesmo nome, 
+o que fará com que o códigos não consiguirá ser compilado.
