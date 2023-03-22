@@ -1,4 +1,5 @@
 A classe Y apresentada está incorreta, pois o atributo cont da classe X é definido como private, 
 o que significa que ele só pode ser acessado diretamente dentro da classe X. 
 Tentar acessá-lo diretamente a partir de uma instância da classe X em outra classe, 
-como é feito na classe Y, resultará em um erro de compilação.
+como é feito na classe Y, resultará em um erro de compilação. Para resolver esse problema, 
+precisamos criar um método modificador para poder acessar o atributo da classe X pela classe Y.
